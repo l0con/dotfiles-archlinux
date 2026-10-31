@@ -1,0 +1,10 @@
+{
+    "include": [
+        "default"
+    ],
+    "define": {
+        "keymap": {
+            "C-semicolon": "set-input-mode-hiragana"
+        }
+    }
+}
